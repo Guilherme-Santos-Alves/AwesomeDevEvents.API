@@ -4,6 +4,12 @@ Uma API REST desenvolvida com C# e ASP.NET 8 para o gerenciamento de eventos de 
 
 ---
 
+## Funcionalidades
+- Cadastro, Listagem, Detalhes, Atualização, e Remoção de Eventos
+- Cadastro de Palestrantes
+
+---
+
 ## Tecnologias e padrões utilizados:
 
 - C#
