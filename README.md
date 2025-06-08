@@ -15,5 +15,6 @@ Uma API REST desenvolvida com C# e ASP.NET 8 para o gerenciamento de eventos de 
 - C#
 - ASP.NET Core 8
 - Entity Framework (EF) Core
+- SQL Server
 - Swagger
 - AutoMapper
